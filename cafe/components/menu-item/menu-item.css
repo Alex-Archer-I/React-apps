@@ -1,0 +1,21 @@
+.menu-item {
+    height: 100px;
+    width: 100px;
+    margin: 0 5px;
+    background: none;
+    border: 3px solid #be5130;
+    border-radius: 20px;
+    font-size: 14px;
+    font-family: 'Pacifico', cursive;
+    cursor: pointer;
+    transition: 1s all;
+}
+
+.menu-item:hover {
+    background-color: rgb(148, 213, 221);
+}
+
+.menu-item img {
+    height: 50px;
+    width: 50px;
+}

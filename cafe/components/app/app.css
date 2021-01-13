@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 73px;
+    padding: 0;
+    margin: 0;
+}
+
+.app {
+    height: 800px;
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.link {
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    color: #000000;
+}
+
+.link a {
+    color: #000000;
+}

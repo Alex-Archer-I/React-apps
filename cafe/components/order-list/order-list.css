@@ -1,0 +1,43 @@
+.order-list {
+    min-height: 100px;
+    width: 720px;
+    margin: 0 auto;
+    background-color: rgba(223, 190, 160, .5);
+    border-radius: 10px;
+    position: relative;
+}
+
+.total {
+    width: 120px;
+    padding: 0 5px;
+    background-color: rgba(223, 190, 160, .5);
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 21px;
+}
+
+.underline {
+    width: 100%;
+    position: absolute;
+    right: 0;
+    bottom: -29px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.underline button {
+    background-color: rgba(223, 190, 160, .5);
+    border-radius: 10px;
+    border: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+.empty-list-text {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 41px;
+    padding-top: 20px;
+    color: rgb(117, 107, 95);
+}
